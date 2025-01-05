@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning more in depth C and Go
-- 🔭 I’m currently working in a proyect that help people manage their finance
+- 🔭 I’m currently working in a Data Analytic proyect
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanMartinCoder&show_icons=true&locale=es&layout=compact" alt="JuanMartinCoder" /></p>
