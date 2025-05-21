@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning more in depth C and Go
 - 🔭 I’m currently working in a Data Analytic proyect
-- ⚡ Favorite Backend Stack: Go - PostgreSQL (Goose and SQLC for integrate with Go) 
+- ⚡ Favorite Backend Stack: Go - Echo Framework - PostgreSQL (Goose and SQLC for integrate with Go) 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanMartinCoder&show_icons=true&locale=es&layout=compact" alt="JuanMartinCoder" /></p>
