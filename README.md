@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning more in depth C and Go
+- 🌱 I’m currently learning more in depth Go and backend infrastructure
 - 🔭 I’m currently working in a Data Analytic proyect
 - ⚡ Favorite Backend Stack: Go - Echo Framework - PostgreSQL (Goose and SQLC for integrate with Go) 
 
